@@ -8,7 +8,7 @@ from Bullet import *
 
 # Fenstereigenschaften
 WIDTH = 1000
-HEIGHT = 800
+HEIGHT = 300
 TITLE = "Dead in 16"
 
 # Aktoren
